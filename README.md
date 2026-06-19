@@ -17,7 +17,6 @@ The purpose of this repository is to document and showcase my progress in Data S
 - 📂 Dataset Exploration
 - 💡 Mini Projects
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -32,7 +31,6 @@ The purpose of this repository is to document and showcase my progress in Data S
 - Excel
 - MySQL
 
----
 
 ## 📂 Repository Structure
 
@@ -50,7 +48,6 @@ Data-Science-Repository/
 └── README.md
 
 
----
 
 ## 🎯 Learning Objectives
 
@@ -62,7 +59,6 @@ Data-Science-Repository/
 - Build machine learning models
 - Develop problem-solving skills using data
 
----
 
 ## 📊 Topics Covered
 
@@ -94,7 +90,6 @@ Data-Science-Repository/
 - Data Retrieval
 - Data Manipulation
 
----
 
 ## 📈 Key Skills Demonstrated
 
@@ -112,13 +107,11 @@ Data-Science-Repository/
 
 ✅ Machine Learning Fundamentals
 
----
 
 ## 📚 Academic Work
 
 This repository includes assignments and tasks completed as part of coursework, self-learning activities, and practical data science exercises.
 
----
 
 ## 🚀 Future Enhancements
 
@@ -128,16 +121,9 @@ This repository includes assignments and tasks completed as part of coursework, 
 - Real-world Data Science Projects
 - Predictive Analytics
 
----
 
 ## 👩‍💻 Author
 
-### Dixita Jamwal
-
-Aspiring Data Scientist | Data Analytics Enthusiast
-
-📌 Passionate about transforming data into meaningful insights.
-
----
+*Ramandeep Kaur*
 
 ⭐ Thank you for visiting my repository!
