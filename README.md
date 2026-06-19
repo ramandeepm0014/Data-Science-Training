@@ -7,7 +7,6 @@ This repository contains data science training materials, practice datasets, and
 ## 📌 Repository Overview
 
 The purpose of this repository is to document and showcase my progress in Data Science by maintaining a collection of:
-
 - 📚 College Assignments
 - 📝 Practice Exercises
 - 📊 Data Analysis Tasks
